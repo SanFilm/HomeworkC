@@ -94,14 +94,15 @@ Console.Clear();
 // 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4" 
 // 2 -> " -2, -1, 0, 1, 2"
 
-Console.Clear();
-Console.Write("Введите число: ");
-int n = int.Parse(Console.ReadLine()!);
-int m = n;
-int l = -n;
-while (n < -l || m > n) // || - или(or) дизъюнкция
-  n = n + 1;
-Console.WriteLine(n);
+// Я
+// Console.Clear();
+// Console.Write("Введите число: ");
+// int n = int.Parse(Console.ReadLine()!);
+// int m = n;
+// int l = -n;
+// while (n < -l || m > n) // || - или(or) дизъюнкция
+//   n = n + 1;
+// Console.WriteLine(n);
 
 // Console.Clear();
 // Console.Write("Введите число: ");
