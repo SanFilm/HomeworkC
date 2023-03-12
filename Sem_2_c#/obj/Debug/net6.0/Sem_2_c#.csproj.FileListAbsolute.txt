@@ -1,0 +1,15 @@
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/bin/Debug/net6.0/Sem_2_c#
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/bin/Debug/net6.0/Sem_2_c#.deps.json
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/bin/Debug/net6.0/Sem_2_c#.runtimeconfig.json
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/bin/Debug/net6.0/Sem_2_c#.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/bin/Debug/net6.0/Sem_2_c#.pdb
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/obj/Debug/net6.0/Sem_2_c#.csproj.AssemblyReference.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/obj/Debug/net6.0/Sem_2_c#.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/obj/Debug/net6.0/Sem_2_c#.AssemblyInfoInputs.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/obj/Debug/net6.0/Sem_2_c#.AssemblyInfo.cs
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/obj/Debug/net6.0/Sem_2_c#.csproj.CoreCompileInputs.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/obj/Debug/net6.0/Sem_2_c#.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/obj/Debug/net6.0/refint/Sem_2_c#.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/obj/Debug/net6.0/Sem_2_c#.pdb
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/obj/Debug/net6.0/Sem_2_c#.genruntimeconfig.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_2_c#/obj/Debug/net6.0/ref/Sem_2_c#.dll
