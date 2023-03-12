@@ -1,2 +1,26 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Очистка консоли.
+Console.Clear();
+// Console.WriteLine("Hello, World!");
+
+// --------------------------------------------------------------
+// --------------------------------------------------------------
+/* Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.*/
+// --------------------------------------------------------------
+// --------------------------------------------------------------
+
+Console.Write("Введите 1-ое число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 2-ое число: ");
+int b = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите 3-е число: ");
+int c = Convert.ToInt32(Console.ReadLine());
+int max = a;
+if (max < b)
+{
+  max = b;
+}
+if (max < c)
+{
+  max = c;
+}
+Console.WriteLine($"Максимальное: {max}");
