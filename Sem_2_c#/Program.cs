@@ -53,14 +53,14 @@ Console.Clear();
 
 
 // Задача 16
-Console.Clear();
-Console.Write("Введите 1-ое число: ");
-int n = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите 2-ое число: ");
-int m = Convert.ToInt32(Console.ReadLine());
-if (n * n == m || m * m == n)
-  Console.WriteLine("yes");
-else
-  Console.WriteLine("no");
+// Console.Clear();
+// Console.Write("Введите 1-ое число: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите 2-ое число: ");
+// int m = Convert.ToInt32(Console.ReadLine());
+// if (n * n == m || m * m == n)
+//   Console.WriteLine("yes");
+// else
+//   Console.WriteLine("no");
 // && - и(одновременное выполнение условий)
 // || - или(выполнение хотя бы одного из условий)
