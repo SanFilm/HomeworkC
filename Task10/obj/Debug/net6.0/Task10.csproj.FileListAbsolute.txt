@@ -1,0 +1,15 @@
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/bin/Debug/net6.0/Task10
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/bin/Debug/net6.0/Task10.deps.json
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/bin/Debug/net6.0/Task10.runtimeconfig.json
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/bin/Debug/net6.0/Task10.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/bin/Debug/net6.0/Task10.pdb
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/obj/Debug/net6.0/Task10.csproj.AssemblyReference.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/obj/Debug/net6.0/Task10.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/obj/Debug/net6.0/Task10.AssemblyInfoInputs.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/obj/Debug/net6.0/Task10.AssemblyInfo.cs
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/obj/Debug/net6.0/Task10.csproj.CoreCompileInputs.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/obj/Debug/net6.0/Task10.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/obj/Debug/net6.0/refint/Task10.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/obj/Debug/net6.0/Task10.pdb
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/obj/Debug/net6.0/Task10.genruntimeconfig.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Task10/obj/Debug/net6.0/ref/Task10.dll
