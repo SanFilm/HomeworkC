@@ -84,12 +84,12 @@ Console.Clear();
 // Console.WriteLine($"Расстояние между двумя точками равно {Math.Round(s, 2)}");
 // --------------------------------------------------------------
 // Задача 22
-Console.Write("Введите число: ");
-int x = Convert.ToInt32(Console.ReadLine());
-for (int i = 0; i < x; i++)
-{
-  Console.Write($"{i} ");
-}
+// Console.Write("Введите число: ");
+// int x = Convert.ToInt32(Console.ReadLine());
+// for (int i = 0; i < x; i++)
+// {
+//   Console.Write($"{i} ");
+// }
 
 
 // Console.Clear();
@@ -99,3 +99,14 @@ for (int i = 0; i < x; i++)
 //   Console.Write($"{i * i} ");
 // --------------------------------------------------------------
 
+// Sem 4
+Console.Write("Введите число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int i = 0;
+while (n > 0)
+{
+  n = n / 10;
+  i++;
+}
+
+Console.WriteLine(i);

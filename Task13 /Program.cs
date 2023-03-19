@@ -11,32 +11,33 @@ Console.Clear();
 // --------------------------------------------------------------
 // --------------------------------------------------------------
 
-// Console.Write("Введите число: ");
-// int n = int.Parse(Console.ReadLine()!);
-// // int n1 = n / 10 % 10;
-// if (n / 100 == 0)
-//   Console.Write("Третьей цифры нет !!!");
-
-// int n1 = n / 100;
-// int n2 = n1 % 10;
-// Console.Write($"{n},, ");
-// Console.Write($"{n1}, ");
-// Console.WriteLine($"{n2}, ");
-
 // --------------------------------------
 // inet 1
 Console.Write("Введи число: ");
-int n = Convert.ToInt32(Console.ReadLine());
-string nText = Convert.ToString(n);
-if (nText.Length > 2)
+int m = Convert.ToInt32(Console.ReadLine());
+string mText = Convert.ToString(m);
+if (mText.Length > 2)
 {
-  Console.WriteLine("Третья цифра слева: " + nText[2]);
+  Console.WriteLine("Третья цифра слева: " + mText[2]);
 }
 else
 {
   Console.WriteLine("Третьей цифры нет.");
 }
 
+  Console.WriteLine("");
 // --------------------------------------
-// inet 2
-// 
+// Денис
+Console.Write("Введите число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+if (n < 100)
+  Console.WriteLine("Третьей цифры нет");
+else
+{
+  while (n > 1000)
+  {
+    n = n / 10;
+    Console.WriteLine($"{n}");         // Как это работает.
+  }
+  Console.WriteLine($"Третья цифра слева: {n % 10}");
+}
