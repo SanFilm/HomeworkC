@@ -171,19 +171,29 @@ Console.Clear();
     2 -> 1, 4.
 */
 
-Console.Write("Введите число: ");
-int x = Convert.ToInt32(Console.ReadLine());
-for (int i = 1; i <= x; i++)
-  Console.Write($"{Math.Pow(i, 2)} ");
-Console.WriteLine();
+// Console.Write("Введите число: ");
+// int x = Convert.ToInt32(Console.ReadLine());
+// for (int i = 1; i <= x; i++)
+//   Console.Write($"{Math.Pow(i, 2)} ");
+// Console.WriteLine();
 
 
-// Console.Clear();
-Console.Write("Введите число: ");
-int n = Convert.ToInt32(Console.ReadLine());
-for (int i = 1; i <= n; i++)
-  Console.Write($"{i * i} ");
-Console.WriteLine();
+// // Console.Clear();
+// Console.Write("Введите число: ");
+// int n = Convert.ToInt32(Console.ReadLine());
+// for (int i = 1; i <= n; i++)
+//   Console.Write($"{i * i} ");
+// Console.WriteLine();
+
+
+
+
+
+
+
+
+
+
 // --------------------------------------------------------------
 
 /* // Sem 4
