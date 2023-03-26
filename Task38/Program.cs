@@ -11,3 +11,32 @@ Console.Clear();
 */
 // --------------------------------------------------------------
 
+Console.Write("Введите кол-во элементов массива: ");
+int n = int.Parse(Console.ReadLine()!);
+double[] array = new double[n];
+for (int i = 0; i < array.Length; i++)
+  array[i] = Math.Round(new Random().NextDouble() * (30 - 10) + 10, 2);
+Console.WriteLine($"[{string.Join(", ", array)}] \n");
+
+double max = array[0], min = array[0];
+
+//   max
+for (int i = 1; i < array.Length; i++)
+{
+  if (array[i] > max)
+  {
+    max = array[i];
+  }
+}
+// Console.Write($"{max}");
+
+//   min
+for (int i = 1; i < array.Length; i++)
+{
+  if (array[i] < min)
+  {
+    min = array[i];
+  }
+}
+// Console.Write($"{min}");
+Console.WriteLine($"{max} - {min} = {max-min} \n");
