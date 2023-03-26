@@ -1,0 +1,15 @@
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/bin/Debug/net6.0/Sem_7_c#
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/bin/Debug/net6.0/Sem_7_c#.deps.json
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/bin/Debug/net6.0/Sem_7_c#.runtimeconfig.json
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/bin/Debug/net6.0/Sem_7_c#.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/bin/Debug/net6.0/Sem_7_c#.pdb
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/obj/Debug/net6.0/Sem_7_c#.csproj.AssemblyReference.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/obj/Debug/net6.0/Sem_7_c#.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/obj/Debug/net6.0/Sem_7_c#.AssemblyInfoInputs.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/obj/Debug/net6.0/Sem_7_c#.AssemblyInfo.cs
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/obj/Debug/net6.0/Sem_7_c#.csproj.CoreCompileInputs.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/obj/Debug/net6.0/Sem_7_c#.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/obj/Debug/net6.0/refint/Sem_7_c#.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/obj/Debug/net6.0/Sem_7_c#.pdb
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/obj/Debug/net6.0/Sem_7_c#.genruntimeconfig.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Sem_7_c#/obj/Debug/net6.0/ref/Sem_7_c#.dll
