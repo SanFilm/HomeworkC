@@ -1,0 +1,15 @@
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/bin/Debug/net6.0/_TEMP
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/bin/Debug/net6.0/_TEMP.deps.json
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/bin/Debug/net6.0/_TEMP.runtimeconfig.json
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/bin/Debug/net6.0/_TEMP.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/bin/Debug/net6.0/_TEMP.pdb
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/obj/Debug/net6.0/_TEMP.csproj.AssemblyReference.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/obj/Debug/net6.0/_TEMP.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/obj/Debug/net6.0/_TEMP.AssemblyInfoInputs.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/obj/Debug/net6.0/_TEMP.AssemblyInfo.cs
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/obj/Debug/net6.0/_TEMP.csproj.CoreCompileInputs.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/obj/Debug/net6.0/_TEMP.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/obj/Debug/net6.0/refint/_TEMP.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/obj/Debug/net6.0/_TEMP.pdb
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/obj/Debug/net6.0/_TEMP.genruntimeconfig.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/_TEMP/obj/Debug/net6.0/ref/_TEMP.dll
