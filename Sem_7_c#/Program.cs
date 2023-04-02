@@ -14,6 +14,7 @@ Console.Clear();
 // int[] size = Console.ReadLine()!.Split().Select(i => int.Parse(i)).ToArray();
 
 // int[] size = Console.ReadLine()!.Split().Select(i => int.Parse(i)).ToArray();
+// // Складывает 4 введённых числа.
 // Console.WriteLine(size[0] + size[1] + size[2] + size[3]);
 
 // --------------------------------------------------------------

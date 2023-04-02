@@ -211,7 +211,7 @@ Console.Clear();
 // for (int i = 0; i < a.Length; i++)
 //   b[i] = a[i];
 
-// b[0] = b[0] + 10;
+// b[0] = b[0] + 20;
 // Console.WriteLine(string.Join(" ", a));
 // Console.WriteLine(string.Join(" ", b));
 
