@@ -1,0 +1,15 @@
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/bin/Debug/net6.0/Exmpl_013_RecursionAlgorithm
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/bin/Debug/net6.0/Exmpl_013_RecursionAlgorithm.deps.json
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/bin/Debug/net6.0/Exmpl_013_RecursionAlgorithm.runtimeconfig.json
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/bin/Debug/net6.0/Exmpl_013_RecursionAlgorithm.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/bin/Debug/net6.0/Exmpl_013_RecursionAlgorithm.pdb
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/obj/Debug/net6.0/Exmpl_013_RecursionAlgorithm.csproj.AssemblyReference.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/obj/Debug/net6.0/Exmpl_013_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/obj/Debug/net6.0/Exmpl_013_RecursionAlgorithm.AssemblyInfoInputs.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/obj/Debug/net6.0/Exmpl_013_RecursionAlgorithm.AssemblyInfo.cs
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/obj/Debug/net6.0/Exmpl_013_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/obj/Debug/net6.0/Exmpl_013_RecursionAlgorithm.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/obj/Debug/net6.0/refint/Exmpl_013_RecursionAlgorithm.dll
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/obj/Debug/net6.0/Exmpl_013_RecursionAlgorithm.pdb
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/obj/Debug/net6.0/Exmpl_013_RecursionAlgorithm.genruntimeconfig.cache
+/Volumes/Work/___GB-Temp___/_dotnetConsoleApp/HomeworkC/Exmpl_013_RecursionAlgorithm/obj/Debug/net6.0/ref/Exmpl_013_RecursionAlgorithm.dll
