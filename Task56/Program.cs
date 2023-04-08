@@ -46,7 +46,7 @@ int[] matrRow = new int[size];
 // Подсчёт суммы строк.----------------------------------------//
 void SummRowElements(int[,] matrix)
 {
-  int count = 0;
+  // int count = 0;
   for (int i = 0; i < matrix.GetLength(0); i++)
   {
     int summ = 0;
